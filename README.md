@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on Game Development
 - 🤔 I’m looking for help with node js
 - 💬 Ask me about anything tech related
-- 📫 How to reach me: LinkedIn - @amsteffensen
+- 📫 How to reach me: [LinkedIn - @amsteffensen](https://www.linkedin.com/in/amsteffensen/) [Instagram - @amsteffensensails](https://www.instagram.com/amsteffensensails/)
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: I learned to sail alone, and crossed vestfjorden in Lofoten. 
-
-- [LinkedIn - @amsteffensen](https://www.linkedin.com/in/amsteffensen/)
-- [Instagram Work- @am.steffensen](https://www.instagram.com/am.steffensen/) 
-- [Instagram Sailing - @amsteffensensails](https://www.instagram.com/amsteffensensails/)
