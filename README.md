@@ -9,8 +9,6 @@
 - 😄 Pronouns: Whatever you like. 🦄 
 - ⚡ Fun fact: I learned to sail alone, and crossed vestfjorden in Lofoten. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=amsteffensen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 #### Projects
 <div> 
   
