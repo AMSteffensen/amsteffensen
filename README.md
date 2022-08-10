@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working for [FJONG](https://fjong.com/)
-[Google](https://google.com" target="_blank)
-
-<a href="https://fjong.com/" target="_blank">FJONG</a>
-
-
-
 - 🌱 I’m currently learning Backend Development and Data Science 
 - 👯 I’m looking to collaborate on Open Source projects. 
 - 💬 Ask me about anything tech related
