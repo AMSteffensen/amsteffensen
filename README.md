@@ -21,3 +21,10 @@
          <img src="https://github.com/AMSteffensen/amsteffensen/blob/main/Rolodex.png" height="400px" hspace="20" vspace="20">
   </a>                              
 </div>
+
+Other projects
+https://github.com/AMSteffensen/todostack
+https://amsteffensen.github.io/InfiniteScroll/
+https://github.com/AMSteffensen/QuoteGenerator
+https://github.com/AMSteffensen/TinDog
+https://github.com/AMSteffensen/CountDown
