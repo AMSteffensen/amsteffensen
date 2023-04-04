@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for [FJONG](https://fjong.com/)
+- 🔭 I’m currently working for [SKATTETATEN](https://skatteetaten.no/)
 - 🌱 I’m currently learning Backend Development and Data Science 
 - 👯 I’m looking to collaborate on Open Source projects. 
 - 💬 Ask me about anything tech related
