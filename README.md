@@ -27,7 +27,7 @@ I'm a passionate developer with expertise in web development and data analysis. 
 
 ## Contributions
 
-- Contributed to [Open Source Project Fight Pandemics](https://github.com/ightPandemics/)
+- Contributed to [Open Source Project Fight Pandemics](https://github.com/fightPandemics/)
 
 ## Contact Me
 
