@@ -23,7 +23,7 @@ I'm a passionate developer with expertise in web development and data analysis. 
 ### Expenses tracking tool
 
 - Description: An interactive data admin tool using Python's Matplotlib library to analyze and visualize Billing data from various stripe expenses, and build reports for the business in PDF format.
-- Repository: [Billing tool](https://github.com/amsteffensen/python-datasciencer)
+- Repository: ([Billing tool](https://github.com/AMSteffensen/python-datascience))
 
 ## Contributions
 
