@@ -12,7 +12,7 @@
 <div> 
   
 <a href="https://github.com/AMSteffensen/DyreBo">
-  <img src="https://github.com/AMSteffensen/amsteffensen/assets/25030428/97cabde9-9faf-4545-8ced-965ab0632656" height="400px" hspace="20" vspace="20" onclick="window.location.href='https://github.com/AMSteffensen/DyreBo';">
+  <img src="https://github.com/AMSteffensen/amsteffensen/blob/main/DyreBo.png" height="400px" hspace="20" vspace="20" onclick="window.location.href='https://github.com/AMSteffensen/DyreBo';">
 </a>
 
   
