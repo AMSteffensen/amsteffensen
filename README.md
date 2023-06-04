@@ -32,7 +32,7 @@ I'm a passionate developer with expertise in web development and data analysis. 
 ## Contact Me
 
 - Email: andreas@amsteffensen.com
-- Personal Website: [johndoe.com](https://www.amsteffensen.com)
+- Personal Website: [amsteffensen.com](https://www.amsteffensen.com)
 -  📫 How to reach me: [LinkedIn - @amsteffensen](https://www.linkedin.com/in/amsteffensen/) 
 [Instagram - @amsteffensensails](https://www.instagram.com/amsteffensensails/)
 
