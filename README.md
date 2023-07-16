@@ -8,13 +8,20 @@ I'm a passionate developer with expertise in web development and data analysis. 
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java
+- Programming Languages: Python, JavaScript, Java / Kotlin
 - Web Technologies: HTML, CSS, React, Node.js
 - Data Analysis: Pandas, NumPy, SQL
 - Version Control: Git, GitHub
 
 ## Projects
 
+### ktor-rabbits
+
+- Description: This project is a web application built with Kotlin and Ktor for backend and React and Node.js on the front end, it uses
+api to serve images and data with rabbits. 
+- Repository: [DyreBo](https://github.com/amsteffensen/ktor-rabbits)
+
+- 
 ### DyreBo
 
 - Description: This project is a web application built with React and Node.js that allows pet owners to manage their pet housing, list their homes for care for animals.
