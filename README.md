@@ -19,7 +19,7 @@ I'm a passionate developer with expertise in web development and data analysis. 
 
 - Description: This project is a web application built with Kotlin and Ktor for backend and React and Node.js on the front end, it uses
 api to serve images and data with rabbits. 
-- Repository: [DyreBo](https://github.com/amsteffensen/ktor-rabbits)
+- Repository: [ktor-rabbits](https://github.com/amsteffensen/ktor-rabbits)
 
 ### DyreBo
 
