@@ -9,7 +9,7 @@ I'm a passionate developer with expertise in web development and data analysis. 
 ## Skills
 
 - Programming Languages: Python, JavaScript, Java / Kotlin
-- Web Technologies: HTML, CSS, React, Node.js
+- Web Technologies: HTML, CSS, React, Node.js, Ktor, Sping boot
 - Data Analysis: Pandas, NumPy, SQL
 - Version Control: Git, GitHub
 
