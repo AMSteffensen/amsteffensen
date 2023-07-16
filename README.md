@@ -21,7 +21,6 @@ I'm a passionate developer with expertise in web development and data analysis. 
 api to serve images and data with rabbits. 
 - Repository: [DyreBo](https://github.com/amsteffensen/ktor-rabbits)
 
-- 
 ### DyreBo
 
 - Description: This project is a web application built with React and Node.js that allows pet owners to manage their pet housing, list their homes for care for animals.
